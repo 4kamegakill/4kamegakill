@@ -17,25 +17,11 @@
 <a href="https://www.linkedin.com/in/mariana-dutra-4a3706275/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 </div>
 
-<div align="center">
-  
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=4kamegakill&show_icons=true&theme=tokyonight&hide_border=true&icon_color=FF00FF&title_color=00FFFF&text_color=FFFFFF)
-
-</div>
-
 ## 💽 [root@dutra 4kamegakill]# whoami
-
-<div align="center">
-  
 
 I'm a Cybersecurity Enthusiast with a strong passion for Red Teaming, Network Security, and Ethical Hacking. My journey in tech started with an insatiable curiosity and a hands-on, self-taught approach. 
 
-</div>
-
-
 ## 📖 Currently studying:
-
-<div align="center">
 
 🔹 Network Defense: Techniques to strengthen infrastructures against cyber threats.
 
@@ -44,8 +30,6 @@ I'm a Cybersecurity Enthusiast with a strong passion for Red Teaming, Network Se
 🔹 Hands-on Practice: Engaging in TryHackMe rooms.
 
 🔹 Blog on Cybersecurity & Tech: Sharing insights, tutorials, and research on my Notion
-
-</div>
 
 <div align="center">
   
