@@ -45,7 +45,14 @@ I'm a Cybersecurity Enthusiast with a strong passion for Red Teaming, Network Se
 
 🔹 Blog on Cybersecurity & Tech: Sharing insights, tutorials, and research on my Notion
 
-<img src="https://tryhackme-badges.s3.amazonaws.com/akameeee.png" alt="Your Image Badge" />
+</div>
+
+<div align="center">
+  
+<a href="https://tryhackme.com/p/akameeee" target="_blank">
+    <img src="https://tryhackme-badges.s3.amazonaws.com/akameeee.png" alt="TryHackMe Badge" />
+  </a>
+
 
 </div>
 
